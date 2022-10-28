@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @yusufatmaca
-- 👀 I’m interested in something in science...
+- 👋 Hi, I’m Yusuf
 - 🌱 I’m currently learning Java...
 
 <!---
